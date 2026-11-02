@@ -1,1 +1,1 @@
-{"name":"hirehub-marketing","private":true,"type":"module","scripts":{"build":"node build.mjs","check":"node check.mjs","preview":"python -m http.server 4173 --directory dist"}}
+{"name":"hirehub-marketing","private":true,"type":"module","scripts":{"build":"node brand-site.mjs","check":"node check.mjs","preview":"python -m http.server 4173 --directory dist"}}

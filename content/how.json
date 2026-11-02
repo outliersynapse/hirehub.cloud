@@ -1,0 +1,351 @@
+{
+  "url": "https://hirehub.cloud/how-hirehub-works-ai-job-matching/",
+  "title": "How HireHub Works | HireHub",
+  "sections": [
+    {
+      "tag": "H2",
+      "text": "How HireHub works"
+    },
+    {
+      "tag": "H4",
+      "text": "A guided hiring and career journey designed around clarity, trust, and meaningful outcomes."
+    },
+    {
+      "tag": "H2",
+      "text": "One platform. Two journeys. Shared outcomes."
+    },
+    {
+      "tag": "H4",
+      "text": "HireHub brings employers and candidates together through structured profiles, intelligent matching, and visible trust signals.\nEach journey is tailored, while the foundation remains the same."
+    },
+    {
+      "tag": "LI",
+      "text": "Employers hire with clarity and confidence."
+    },
+    {
+      "tag": "LI",
+      "text": "Candidates gain visibility and real opportunities."
+    },
+    {
+      "tag": "LI",
+      "text": "Every interaction moves hiring forward."
+    },
+    {
+      "tag": "H3",
+      "text": "Employer"
+    },
+    {
+      "tag": "LI",
+      "text": "Create roles"
+    },
+    {
+      "tag": "LI",
+      "text": "Review aligned profiles"
+    },
+    {
+      "tag": "LI",
+      "text": "Make hiring decisions"
+    },
+    {
+      "tag": "H3",
+      "text": "HireHub"
+    },
+    {
+      "tag": "LI",
+      "text": "Intelligent matching"
+    },
+    {
+      "tag": "LI",
+      "text": "Trust signals"
+    },
+    {
+      "tag": "LI",
+      "text": "Structured workflows"
+    },
+    {
+      "tag": "H3",
+      "text": "Candidate"
+    },
+    {
+      "tag": "LI",
+      "text": "Build profile"
+    },
+    {
+      "tag": "LI",
+      "text": "Share availability"
+    },
+    {
+      "tag": "LI",
+      "text": "Connect with employers"
+    },
+    {
+      "tag": "LI",
+      "text": "Employer"
+    },
+    {
+      "tag": "LI",
+      "text": "HireHub"
+    },
+    {
+      "tag": "LI",
+      "text": "Candidate"
+    },
+    {
+      "tag": "H2",
+      "text": "How hiring works for employers"
+    },
+    {
+      "tag": "P",
+      "text": "From role creation to hire, guided with clarity at every stage."
+    },
+    {
+      "tag": "H3",
+      "text": "Create your company profile"
+    },
+    {
+      "tag": "P",
+      "text": "Set up your employer presence with key company details.  A clear profile helps candidates understand your organisation and supports stronger engagement from the start."
+    },
+    {
+      "tag": "H3",
+      "text": "Post a role with structured details"
+    },
+    {
+      "tag": "P",
+      "text": "Add role requirements, location, pay range, and hiring timeline using guided fields designed for alignment. Clear role information helps matching stay focused and relevant."
+    },
+    {
+      "tag": "H3",
+      "text": "Receive matched candidates or browse profiles"
+    },
+    {
+      "tag": "P",
+      "text": "AI-assisted matching highlights candidates aligned to your role, while profile browsing gives flexibility to explore talent directly. Both paths support informed shortlisting with ease."
+    },
+    {
+      "tag": "H3",
+      "text": "Connect and schedule conversations"
+    },
+    {
+      "tag": "P",
+      "text": "Review profiles with visible trust signals and reach out through the platform. Built-in tools support smooth communication and interview scheduling."
+    },
+    {
+      "tag": "H3",
+      "text": "Confirm hiring and manage outcomes"
+    },
+    {
+      "tag": "P",
+      "text": "Move roles from live to filled with full visibility. Hiring activity, conversations, and progress stay organised within your employer dashboard."
+    },
+    {
+      "tag": "H2",
+      "text": "How opportunities work for candidates"
+    },
+    {
+      "tag": "P",
+      "text": "From profile creation to meaningful work, built around skills, availability, and momentum."
+    },
+    {
+      "tag": "H3",
+      "text": "Create your profile"
+    },
+    {
+      "tag": "P",
+      "text": "Share your experience, preferences, location, and availability in a structured profile. This information helps employers understand your strengths and connect with purpose."
+    },
+    {
+      "tag": "H3",
+      "text": "Upload a CV or build one with smart tools"
+    },
+    {
+      "tag": "P",
+      "text": "Upload an existing CV or create one using guided tools designed for clarity and alignment. A structured CV helps your experience stand out clearly."
+    },
+    {
+      "tag": "H3",
+      "text": "Complete verification to strengthen visibility"
+    },
+    {
+      "tag": "P",
+      "text": "Verification adds trusted signals to your profile and CV. These signals help employers recognise readiness and engage with confidence."
+    },
+    {
+      "tag": "H3",
+      "text": "Receive matches aligned to skills and goals"
+    },
+    {
+      "tag": "P",
+      "text": "Matches reflect skills, experience, location, availability, and pay expectations. This alignment helps opportunities feel relevant and well-timed."
+    },
+    {
+      "tag": "H3",
+      "text": "Connect with employers and move into work"
+    },
+    {
+      "tag": "P",
+      "text": "Engage in conversations, attend interviews, and progress into roles that fit your goals. Every step supports forward movement with clarity."
+    },
+    {
+      "tag": "H2",
+      "text": "AI matching that supports better decisions"
+    },
+    {
+      "tag": "H4",
+      "text": "Matching is designed to surface relevance and support confident decisions."
+    },
+    {
+      "tag": "H3",
+      "text": "Skills & Experience"
+    },
+    {
+      "tag": "P",
+      "text": "Profiles and roles align around capabilities, experience level, and role requirements to support meaningful fit."
+    },
+    {
+      "tag": "H3",
+      "text": "Location & Availability"
+    },
+    {
+      "tag": "P",
+      "text": "Geography, work preferences, and availability guide alignment to support realistic engagement."
+    },
+    {
+      "tag": "H3",
+      "text": "Salary Alignment"
+    },
+    {
+      "tag": "P",
+      "text": "Pay expectations help shape matches that feel appropriate and balanced for both sides."
+    },
+    {
+      "tag": "H3",
+      "text": "Human Decisions"
+    },
+    {
+      "tag": "P",
+      "text": "AI highlights alignment while people guide conversations, decisions, and hiring outcomes."
+    },
+    {
+      "tag": "H2",
+      "text": "Verification and badges that build trust"
+    },
+    {
+      "tag": "H3",
+      "text": "Clear identity verification"
+    },
+    {
+      "tag": "P",
+      "text": "HireHub integrates identity verification directly into profiles, helping employers and candidates connect with clarity and assurance. Verified profiles display clear indicators that highlight readiness and authenticity from the first interaction."
+    },
+    {
+      "tag": "H3",
+      "text": "Visible badges across profiles and CVs"
+    },
+    {
+      "tag": "P",
+      "text": "Badges appear across candidate profiles and CVs, making trust easy to recognise at a glance. They highlight completed verification and achievements that support credibility and professional presence."
+    },
+    {
+      "tag": "H3",
+      "text": "Employer-visible ratings"
+    },
+    {
+      "tag": "P",
+      "text": "Employer-visible ratings add helpful context after work is completed. These insights support future hiring decisions and help candidates build a trusted track record over time."
+    },
+    {
+      "tag": "H2",
+      "text": "Ready to move forward with confidence?"
+    },
+    {
+      "tag": "P",
+      "text": "Whether you’re building a team or exploring your next opportunity, HireHub supports\n progress with clarity, speed, and control — all in one place."
+    },
+    {
+      "tag": "H2",
+      "text": "Trusted by teams and candidates"
+    },
+    {
+      "tag": "H4",
+      "text": "Real experiences from people using HireHub to hire smarter and move careers forward."
+    },
+    {
+      "tag": "P",
+      "text": "“The platform gave our team clear visibility and control throughout the hiring process. We moved from role creation to interviews faster than expected.”"
+    },
+    {
+      "tag": "H4",
+      "text": "Founder UK"
+    },
+    {
+      "tag": "P",
+      "text": "“HireHub helped us connect with candidates who matched our needs quickly. The verification badges and matching made decision-making smoother and more confident.”"
+    },
+    {
+      "tag": "H4",
+      "text": "Operations Manager"
+    },
+    {
+      "tag": "P",
+      "text": "“The CV tools and matching highlighted roles that fit my schedule and skills. The process felt structured and encouraging.”"
+    },
+    {
+      "tag": "H4",
+      "text": "Candidate"
+    },
+    {
+      "tag": "P",
+      "text": "“Building my profile and completing verification helped employers understand my experience straight away. Responses felt more focused and relevant.”"
+    },
+    {
+      "tag": "H4",
+      "text": "Candidate"
+    },
+    {
+      "tag": "H2",
+      "text": "Our Blog"
+    },
+    {
+      "tag": "H4",
+      "text": "Fresh thinking on hiring, careers, and platform updates — shaped for the UK market."
+    },
+    {
+      "tag": "P",
+      "text": "Recruitment"
+    },
+    {
+      "tag": "H3",
+      "text": "9 Recruitment Funnel Leaks Costing UK Employers Strong Candidates"
+    },
+    {
+      "tag": "P",
+      "text": "UK employers can attract plenty of applicants while strong candidates still slip away at key hiring stages. Explore nine common recruitment funnel leaks, from unclear job details and application friction to interview delays and post-offer communication, with practical ways to improve candidate engagement, conversion, and hiring momentum."
+    },
+    {
+      "tag": "P",
+      "text": "CV Advice"
+    },
+    {
+      "tag": "H3",
+      "text": "ATS-Friendly vs Human-Friendly CV: How to Write a UK CV That Works for Both in 2026"
+    },
+    {
+      "tag": "P",
+      "text": "Learn how to create an ATS-friendly UK CV that also appeals to recruiters. This 2026 guide covers structure, keywords, formatting, achievements, AI support and practical ways to make your CV clear, relevant and easy to review."
+    },
+    {
+      "tag": "P",
+      "text": "Recruitment Compliance"
+    },
+    {
+      "tag": "H3",
+      "text": "Right to Work Checks UK 2026: What Employers Must Know Before Hiring"
+    },
+    {
+      "tag": "P",
+      "text": "Right to Work checks play a key role in compliant UK hiring. This guide explains employer responsibilities, checking routes, share codes, record keeping, follow-up checks, statutory protection, pre-employment screening, and the Right to Work changes approaching in October 2026."
+    }
+  ],
+  "text": "How HireHub works\nA guided hiring and career journey designed around clarity, trust, and meaningful outcomes.\nGet started\n One platform. Two journeys. Shared outcomes.\nHireHub brings employers and candidates together through structured profiles, intelligent matching, and visible trust signals.\nEach journey is tailored, while the foundation remains the same.\nEmployers hire with clarity and confidence.\nCandidates gain visibility and real opportunities.\nEvery interaction moves hiring forward.\nEmployer\n\nCreate roles\nReview aligned profiles\nMake hiring decisions\n\nHireHub\n\nIntelligent matching\nTrust signals\nStructured workflows\n\nCandidate\n\nBuild profile\nShare availability\nConnect with employers\n\nEmployer\nHireHub\nCandidate\nHow hiring works for employers\n\nFrom role creation to hire, guided with clarity at every stage.\n\n1\nCreate your company profile\n\nSet up your employer presence with key company details.  A clear profile helps candidates understand your organisation and supports stronger engagement from the start.\n\n2\nPost a role with structured details\n\nAdd role requirements, location, pay range, and hiring timeline using guided fields designed for alignment. Clear role information helps matching stay focused and relevant.\n\n3\nReceive matched candidates or browse profiles\n\nAI-assisted matching highlights candidates aligned to your role, while profile browsing gives flexibility to explore talent directly. Both paths support informed shortlisting with ease.\n\n4\nConnect and schedule conversations\n\nReview profiles with visible trust signals and reach out through the platform. Built-in tools support smooth communication and interview scheduling.\n\n5\nConfirm hiring and manage outcomes\n\nMove roles from live to filled with full visibility. Hiring activity, conversations, and progress stay organised within your employer dashboard.\n\nStart hiring\nHow opportunities work for candidates\n\nFrom profile creation to meaningful work, built around skills, availability, and momentum.\n\n1\nCreate your profile\n\nShare your experience, preferences, location, and availability in a structured profile. This information helps employers understand your strengths and connect with purpose.\n\n2\nUpload a CV or build one with smart tools\n\nUpload an existing CV or create one using guided tools designed for clarity and alignment. A structured CV helps your experience stand out clearly.\n\n3\nComplete verification to strengthen visibility\n\nVerification adds trusted signals to your profile and CV. These signals help employers recognise readiness and engage with confidence.\n\n4\nReceive matches aligned to skills and goals\n\nMatches reflect skills, experience, location, availability, and pay expectations. This alignment helps opportunities feel relevant and well-timed.\n\n5\nConnect with employers and move into work\n\nEngage in conversations, attend interviews, and progress into roles that fit your goals. Every step supports forward movement with clarity.\n\nCreate your profile\nAI matching that supports better decisions\nMatching is designed to surface relevance and support confident decisions.\nSkills & Experience\n\nProfiles and roles align around capabilities, experience level, and role requirements to support meaningful fit.\n\nLocation & Availability\n\nGeography, work preferences, and availability guide alignment to support realistic engagement.\n\nSalary Alignment\n\nPay expectations help shape matches that feel appropriate and balanced for both sides.\n\nHuman Decisions\n\nAI highlights alignment while people guide conversations, decisions, and hiring outcomes.\n\nLearn about AI Matching\nVerification and badges that build trust\nVerification and badges that build confidence\nClear identity verification\n\nHireHub integrates identity verification directly into profiles, helping employers and candidates connect with clarity and assurance. Verified profiles display clear indicators that highlight readiness and authenticity from the first interaction.\n\nVisible badges across profiles and CVs\n\nBadges appear across candidate profiles and CVs, making trust easy to recognise at a glance. They highlight completed verification and achievements that support credibility and professional presence.\n\nEmployer-visible ratings\n\nEmployer-visible ratings add helpful context after work is completed. These insights support future hiring decisions and help candidates build a trusted track record over time.\n\nReady to move forward with confidence?\n\nWhether you’re building a team or exploring your next opportunity, HireHub supports\n progress with clarity, speed, and control — all in one place.\n\nHire Talent\nFind Work\nTrusted by teams and candidates\nReal experiences from people using HireHub to hire smarter and move careers forward.\nEmployer Reviews\nCandidate Reviews\n\n“The platform gave our team clear visibility and control throughout the hiring process. We moved from role creation to interviews faster than expected.”\n\nFounder UK\nSME\n\n“HireHub helped us connect with candidates who matched our needs quickly. The verification badges and matching made decision-making smoother and more confident.”\n\nOperations Manager\nUK Retail Business\nOur Blog\nFresh thinking on hiring, careers, and platform updates — shaped for the UK market.\n\nRecruitment\n\n9 Recruitment Funnel Leaks Costing UK Employers Strong Candidates\n\nUK employers can attract plenty of applicants while strong candidates still slip away at key hiring stages. Explore nine common recruitment funnel leaks, from unclear job details and application friction to interview delays and post-offer communication, with practical ways to improve candidate engagement, conversion, and hiring momentum.\n\nRead article\n\nCV Advice\n\nATS-Friendly vs Human-Friendly CV: How to Write a UK CV That Works for Both in 2026\n\nLearn how to create an ATS-friendly UK CV that also appeals to recruiters. This 2026 guide covers structure, keywords, formatting, achievements, AI support and practical ways to make your CV clear, relevant and easy to review.\n\nRead article\n\nRecruitment Compliance\n\nRight to Work Checks UK 2026: What Employers Must Know Before Hiring\n\nRight to Work checks play a key role in compliant UK hiring. This guide explains employer responsibilities, checking routes, share codes, record keeping, follow-up checks, statutory protection, pre-employment screening, and the Right to Work changes approaching in October 2026.\n\nRead article\nAbout HireHub\nHireHub is a UK-focused hiring platform that brings together AI-assisted matching, verification, and flexible hiring tools. The platform supports employers and candidates with clarity, confidence, and structured outcomes.\nFor Employers\nAI Matching\nVerification & Badges\nPricing\nEmployer Sign Up\nFor Candidates\nCV Advice & Tools\nInterview Tips\nVerification & Badges\nCandidate Sign Up\nTrust & Transparency\nTrust & Safety\nSecurity\nAI Transparency\nData Protection (GDPR)\nAcceptable Use Policy\nResources\nHow It Works\nFAQs\nHelp Centre\nBlog & Insights\nLegal\nPrivacy Policy\nTerms & Conditions\nCookie Policy\nAI Usage Policy\nCompany\nContact Us\nAbout Us\nSecurity & Access\nSign In\nSign Up\nMFA\n\nDesigned to support confident hiring and career progress across the UK.\n© HireHub. All rights reserved."
+}
