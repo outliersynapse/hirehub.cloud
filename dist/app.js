@@ -1,0 +1,12 @@
+const menuButton=document.querySelector('.menu-button');
+const mobileNav=document.getElementById('mobile-nav');
+menuButton?.addEventListener('click',()=>{const open=menuButton.getAttribute('aria-expanded')!=='true';menuButton.setAttribute('aria-expanded',String(open));menuButton.setAttribute('aria-label',open?'Close navigation':'Open navigation');mobileNav.hidden=!open;});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&menuButton?.getAttribute('aria-expanded')==='true'){mobileNav.hidden=true;menuButton.setAttribute('aria-expanded','false');menuButton.setAttribute('aria-label','Open navigation');menuButton.focus();}});
+const dialog=document.getElementById('register-dialog');
+document.querySelectorAll('[data-open-register]').forEach(button=>button.addEventListener('click',()=>dialog.showModal()));
+document.querySelector('.dialog-close')?.addEventListener('click',()=>dialog.close());
+dialog?.addEventListener('click',event=>{if(event.target===dialog){const bounds=dialog.getBoundingClientRect();if(event.clientX<bounds.left||event.clientX>bounds.right||event.clientY<bounds.top||event.clientY>bounds.bottom)dialog.close();}});
+function setupTabs(attribute,prefix){const tabs=[...document.querySelectorAll(`[${attribute}]`)];function activate(tab){for(const item of tabs){const active=item===tab;item.setAttribute('aria-selected',String(active));item.tabIndex=active?0:-1;document.getElementById(`${prefix}-${item.getAttribute(attribute)}`).hidden=!active;}}for(const tab of tabs){tab.addEventListener('click',()=>activate(tab));tab.addEventListener('keydown',event=>{let next;if(event.key==='ArrowRight')next=tabs[(tabs.indexOf(tab)+1)%tabs.length];if(event.key==='ArrowLeft')next=tabs[(tabs.indexOf(tab)-1+tabs.length)%tabs.length];if(event.key==='Home')next=tabs[0];if(event.key==='End')next=tabs.at(-1);if(next){event.preventDefault();activate(next);next.focus();}})}}
+setupTabs('data-journey','steps');setupTabs('data-price','prices');
+// Publish only to a configured analytics layer. No tracking cookies are created here.
+document.querySelectorAll('[data-register]').forEach(link=>link.addEventListener('click',()=>{const detail={event:'registration_cta_click',audience:link.dataset.register,placement:link.dataset.placement||'body',page_path:location.pathname,destination:link.href};if(Array.isArray(window.dataLayer))window.dataLayer.push(detail);document.dispatchEvent(new CustomEvent('hirehub:registration-click',{detail}));}));
