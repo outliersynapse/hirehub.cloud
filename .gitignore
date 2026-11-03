@@ -1,3 +1,38 @@
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+.npmrc
+.netrc
+_netrc
+.aws/
+.ssh/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials.json
+credentials-*.json
+*.credentials.json
+service-account*.json
+secrets.*
+
+# Preview, test and temporary files
 .browser-qa/
 qa-results/
 *.tar.gz
+*.log
+*.tmp
+*.swp
+.cache/
+.DS_Store
+Thumbs.db
