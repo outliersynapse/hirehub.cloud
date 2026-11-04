@@ -65,3 +65,17 @@ dialog > p.dialog-note,
 }
 
 .decision-notes strong { font-size: inherit; }
+
+.arrow-icon {
+  display: inline-block;
+  flex-shrink: 0;
+  vertical-align: -0.125em;
+}
+
+.closing-flower {
+  pointer-events: none;
+}
+
+.closing-flower > svg {
+  display: block;
+}
